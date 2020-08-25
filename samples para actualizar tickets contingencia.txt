@@ -1,0 +1,140 @@
+PENDIENTE DE DEVOLUCION: se procede al cambio de estado del activo con avería de acuerdo al ticket INC4414810. 
+
+Maicas 
+Work notes• 
+21-04-2020 09:41:47 
+
+Se adjunta evidencia, de que usuario ya recogio equipo g6. 
+Jordi 
+___________________________________________________ 
+Maicas 
+Work notes • 
+24-04-2020 17:39:20 
+
+Se recibe acta de asignacion. 
+Jordi 
+________________________________________ 
+ACTIVO A DEVOLVER: 5CD8194RSZ 
+ACTIVO ASIGNADO: 5CD9280SL5 
+
+Se adjunta diagnostico técnico y queda pendiente acta de devolución debido a la situación de Covid-19 donde el equipo queda en poder del usuario.
+________________________________________________________________________________________________________
+
+ASIGNACION: se procede a la asignación de activo de acuerdo al ticket INC3989841. 
+
+ACTIVO A DEVOLVER: 5CD752793Y 
+ACTIVO ASIGNADO: 5CD9280SK7  
+
+Se adjunta correo del usuario que contiene foto del equipo que ha recibido ya que no cuenta con impresora para proceder con el documento. Se toma como acta de asignación el correo enviado.
+
+______________________________________________________________________________________________________________
+
+ASIGNACION Y PENDIENTE DE DEVOLUCION: se procede al cambio de estado del activo con avería y a la asignacion de equipo de acuerdo al ticket INC3989841. 
+
+ACTIVO A DEVOLVER: 5CD752793Y 
+ACTIVO ASIGNADO: 5CD9280SK7  
+
+Queda pendiente acta de devolución debido a la situación de Covid-19 donde el equipo queda en poder del usuario.
+
+__________________________________________________________________________________________________________________
+
+Se escala a la cola de trabajo DAAS Onsite-AVNC debido a eventual procedimiento de garantía. GDS-COMPRAS_AVNC
+
+
+Se pasa el ticket  a la cola de trabajo GDS-EQUIPOS_COMPUTO_AVNC debido a que el equipo de serial 5CD747GC5J  ya se encuentra en la Bodega de MRO para su eventual despacho por Deprisa a CAV Bogota para su reparación.
+____________________________________________________________________________________________________________
+
+Se retorna el caso a la cola de trabajo Field Service-AVNC para que se proceda con la resolución del ticket.
+
+EQUIPO ACTUALMENTE EN LA SALA ARMENIA EN PODER DE COLSOF, PENDIENTE POR REPARACIÓN. SE ADJUNTA CORREO DE COLSOF
+
+EQUIPO ACTUALMENTE EN LPODER DE COLSOF, PENDIENTE POR REVISION. SE ADJUNTA CORREO DE COLSOF
+
+EQUIPO DE SERIAL 5CD9196RW1 SE HA RETORNADO A SALA CURACAO REPARADO POR COLSOF	
+
+EQUIPO DE SERIAL 5CD9196RW1 SE HA RETORNADO A SALA PEREIRA REPARADO POR COLSOF
+
+EQUIPO DE SERIAL 5CD9196RW1 SE HA RETORNADO A SALA MANIZALEZ REPARADO POR COLSOF
+
+EQUIPO SE HA RETORNADO A LA SALA PEREIRA REPARADO POR COLSOF. SE ADJUNTA CORREO DE COLSOF
+
+EQUIPOS SE HAN MOVIDO A LA SALA PEREIRA POR COLSOF POR SOLICITUD DE AVIANCA. SE ADJUNTA CORREO DE COLSOF
+
+EQUIPO MOVIDO A SALA ARMENIA. NOTA COLSOF Equipos Nuevos Contigencia - Revisados 07/07/20 - SE ADJUNTA CORREO DE COLSOF
+
+EQUIPO SE HA RETORNADO A LA SALA MANIZALEZ REPARADO POR COLSOF. SE ADJUNTA CORREO DE COLSOF
+
+EQUIPO SE HA RETORNADO A OFICINA DE DIANA VERGARA REVISADO POR COLSOF. SE ADJUNTA CORREO DE COLSOF
+
+EQUIPO SE HA RETORNADO A LA SALA PEREIRA REPARADO POR COLSOF. SE ADJUNTA CORREO DE COLSOF
+
+EQUIPO SE HA RETORNADO A LA SALA PEREIRA REPARADO POR COLSOF. SE ADJUNTA CORREO DE COLSOF
+
+EQUIPO RETORNADO EN OFICINA DE DIANA VERGARA RECIBIDO POR COLSOF PARA EVENTUALMENTE DEJAR EN BODEGA CAV SOTANO 2. SE ADJUNTA CORREO DE COLSOF
+
+ESTE EQUIPO SE TOMA COMO RENOVACION POR LO CUAL SALE DEL STOCK DE RECAMBIO DE ACUERDO A LA INFORMACION SUMINISTRADA POR LENIS BOHORQUEZ, SE ADJUNTA CORREO.
+
+SE CREA ACTIVO EN LA CMDB CON INFORMACION SUMINISTRADA DE BRIGADA ANTIVIRUS, FEBRERO 2020
+
+ACTIVO ENCONTRADO EN BRIGADA ANTIVIRUS, FEBRERO 2020
+
+SE ACTUALIZA USUARIO ASIGNADO CON INFORMACION DE BRIGADA ANTIVIRUS, FEBRERO 2020
+
+SE CORRIGE USUARIO DE ACUERDO A VALIDACION CONTRA DIRECTORIO ACTIVO POR MEDICION KPI AGOSTO 2020.
+
+SE CORRIGE MODELO DE ACUERDO A VALIDACION CONTRA SCCM Y HP SITE POR MEDICION KPI AGOSTO 2020.
+
+
+INC4412865
+INC4411724
+INC4409362
+
+
+DEVOLUCION: se procede a la devolución de activo con avería de acuerdo al ticket INC4496902. 
+
+Yilber Gomez 
+Work notes• 
+29-04-2020 12:53:36 
+
+Se adjuntan las respectivas actas firmadas por el usuario con esto ya se da por finalizada la gestión del caso y se pasa al grupo indicado. gomezy 
+
+ACTIVO A DEVOLVER: 5CD80845B7 
+ACTIVO ASIGNADO: 5CD7525RMN 
+
+Se adjuntan diagnostico técnico y acta de devolución.
+
+
+
+DEVOLUCION: se procede a la devolución de activo averiado de acuerdo al ticket INC4588884 
+
+Maicas 
+Work notes• 
+15-05-2020 20:37:01 
+
+Se suben actas. 
+Jordi 
+____________________________________________ 
+Maicas 
+Work notes• 
+15-05-2020 17:31:53 
+
+Usuaria devuelve equipo: 
+
+LT1A5CD6433YX1 
+AVLT1ACOBOG03040248 
+Probook 430 g3 
+
+Usuaria recoge equipo de la Curazao: 
+
+5CD9196RW1 
+AVLT1BCOBOG03067397 
+HP Probook 440 g6 
+Jordi 
+
+ACTIVO DEVUELTO: 5CD6433YX1 
+ACTIVO ASIGNADO: 5CD9196RW1 
+
+
+
+
+Se adjuntan diagnostico técnico y correo de usuario como acta de asignación.
